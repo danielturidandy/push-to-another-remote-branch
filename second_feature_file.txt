@@ -1,0 +1,4 @@
+This is the file in the second feature branch.
+
+We will commit writing into this file now.
+
